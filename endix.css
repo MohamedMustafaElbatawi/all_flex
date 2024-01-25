@@ -1,0 +1,58 @@
+.min {
+    width: 100%;
+    height:auto ;
+    display: flex;
+    justify-content: center;
+}
+
+
+.nan {
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(red , purple);
+    color:cornflowerblue ;    
+    font-size: 25px;
+    text-align: center;
+    line-height: 200px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    /* border: 7px brown solid; */
+
+    border-color: green red brown;
+    border-style:  solid;
+    border-width: 10px 15px ;
+
+    outline-width: 5px ;
+    outline-style: dashed ;
+    outline-color:blue wheat  ;
+
+}
+
+.number{
+
+}
+
+.style1,
+.style2,
+.style{
+    /* width: 200px; */
+    /* display: inline-block; */
+    height: 50px;   
+    background:linear-gradient(red, blue); 
+    padding: 10px;
+    margin: 10px;
+    font-size:20px;
+    line-height: 40px;
+    color: azure;
+    border-bottom: #000000 7px solid;
+    
+
+}
+
+
+.style1{
+    border-left: 10px solid forestgreen;
+}
+
+ 
